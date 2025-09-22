@@ -1,9 +1,10 @@
-# Hi there
+# Passionate Developer
 
-Hi, my name is Martin Rohwedder. I am an App and Web developer, which currently have my eyes on technologies as 
-- Next.JS (react.js), 
-- Entity Framework Core
-- Blazor development.
+Hi, my name is Martin Rohwedder. I am a passionate developer, which creates apps, games, APIs and much more.
+I am an all-around developer, though my strongest passions is with the Java and C# technologies. At the moment I am focusing mostly on technologies as:
+
+- Spring Framework (Spring Boot & Java)
 - MAUI.NET
+- Next.JS (React and JS)
 
-I have previous experience in some backend developing especially with java (spring framework) and C# (MVC) as the main programming technologies, but I am focusing on becoming a fullstack developer. If you would like to know more, you can visit my website [https://www.martinrohwedder.dk](https://www.martinrohwedder.dk)
+I have previous professional experience in backend developing especially with Java (spring framework) as the main programming technologies, but I am not afraid of trying other technologies, if they can solve problem faster. I am incorporating new practices in my developing projects, as containorizing with my apps with Docker.
